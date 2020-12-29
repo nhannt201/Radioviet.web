@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule admin-panel.html $1\panel.php
